@@ -24,10 +24,8 @@ You can find more screenshots [here](screenshots/)
 
 
 ##### Authors:
-+ [Giannis Pellelis](https://github.com/gpelelis)
-+ [Dimitris Mouris](https://github.com/jimouris)
-
-April 2016
++ [John Mulama](https://github.com/JOHNMULAMA)
 
 
-[badge-license]: https://img.shields.io/badge/license-MIT-green.svg?style=flat-square
+July 2023
+
